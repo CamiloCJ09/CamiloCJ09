@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![](https://user-images.githubusercontent.com/64206343/94387381-9ae88900-010f-11eb-8a80-6982587f0d8c.gif)
 ### Hi there 👋
 
 <!--
