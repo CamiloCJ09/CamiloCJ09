@@ -11,12 +11,13 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{CamiloCJ09}/count.svg)
 
-### I am a Software System Engineer Student in Universidad Icesi in Cali - Colombia<br />
-Feel free to text me if you want stay in touch :D<br />
-- 🌱 I’m currently learning Java, JavaScript, Python, C#, CSS, PHP, HTML, Machine Learning
+### I am a Software System Engineer Student<br />
+Feel free to text me if you want stay in touch [Here!](https://twitter.com/CampazJimenez) 😁<br />
+- 🌱 I’m currently learning Java, JavaScript, Python, C#, CSS, PHP, HTML, Machine Learning, Frontend :zap:
 - 👯 I’m looking to collaborate on open source proyects
 - 🔭 I’m currently working on ... (it's a secret yet 😝)
-- ⚡ Fun facts about me: i love basketball and videogames <br />
+- 💬 Ask me about **anything you want!!**
+- ⚡ Fun facts about me: I love basketball and videogames <br />
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -37,8 +38,8 @@ Feel free to text me if you want stay in touch :D<br />
     <a href = "https://visualstudio.microsoft.com/es/vs/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="vcode19" width="40" height="40" ></a>  
 </p>
 
-<br />📈 My GitHub Stats
-<br /><br /><p align="center"><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CamiloCJ09&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="CamiloCJ09's Github Stats" width="60%">
+### 📈 My GitHub Stats
+<p align="center"><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CamiloCJ09&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="CamiloCJ09's Github Stats" width="60%">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamiloCJ09&layout=compact&langs_count=8&theme=react" width="37%" alt="ChristianFlor's Top Languages">
 <!--
 **CamiloCJ09/CamiloCJ09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
