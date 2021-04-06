@@ -34,8 +34,9 @@ Feel free to text me if you want stay in touch [Here!](https://twitter.com/Campa
 </p>
 
 ### 📈 My GitHub Stats
-<p align="center"><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CamiloCJ09&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="CamiloCJ09's Github Stats" width="60%">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamiloCJ09&layout=compact&langs_count=8&theme=react" width="37%" alt="ChristianFlor's Top Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=CamiloCJ09&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="CamiloCJ09" width="60%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CamiloCJ09&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="CamiloCJ09" width="37%">
 <!--
 **CamiloCJ09/CamiloCJ09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
