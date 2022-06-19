@@ -6,19 +6,19 @@
 </p>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**VISITOR COUNT**`<br />`
+**VISITOR COUNT**
 
 ![Visitor Count](https://profile-counter.glitch.me/{CamiloCJ09}/count.svg)
 
-### I am a Software System Engineer Student`<br />`
+### I am a Software System Engineer Student
 
-Feel free to text me if you want stay in touch [Here!](https://twitter.com/CampazJimenez) 😁`<br />`
+Feel free to text me if you want stay in touch [Here!](https://twitter.com/CampazJimenez) 😁
 
 - 🌱 I’m currently learning Java, JavaScript, Python, C#, CSS, PHP, HTML, Machine Learning, Frontend ⚡️
 - 👯 I’m looking to collaborate on open source proyects
 - 🔭 I’m currently working on ... (it's a secret yet 😝)
 - 💬 Ask me about **anything you want!!**
-- ⚡ Fun facts about me: I love basketball and videogames `<br />`
+- ⚡ Fun facts about me: I love basketball and videogames 
 - 😉 If you want buy me a coffee [Here](https://www.buymeacoffee.com/CamiloCJ)
 
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
