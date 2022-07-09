@@ -96,6 +96,10 @@ Feel free to text me if you want stay in touch [Here!](https://twitter.com/Campa
 
 </p>
 
+### 🎧 Now Listening To: 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6lozbxuayhcm0lfgfha018etu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6lozbxuayhcm0lfgfha018etu&redirect=true)
+
 ### 📈 My GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=CamiloCJ09&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="CamiloCJ09" width="60%">
